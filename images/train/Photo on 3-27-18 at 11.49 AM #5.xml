@@ -1,0 +1,23 @@
+<annotation>
+    <folder>ball</folder>
+    <filename>Photo on 3-27-18 at 11.49 AM #5.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>426</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>260</xmin>
+            <ymin>271</ymin>
+            <xmax>297</xmax>
+            <ymax>309</ymax>
+        </bndbox>
+    </object>
+</annotation>
